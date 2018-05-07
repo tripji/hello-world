@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi!! I'm Tris. Just Tris.
+I think that's enough..
